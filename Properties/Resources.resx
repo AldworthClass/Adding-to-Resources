@@ -124,6 +124,9 @@
   <data name="MarioSleep" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MarioSleep.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Mario_Rage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mario Rage.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="SheepSleep" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SheepSleep.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>

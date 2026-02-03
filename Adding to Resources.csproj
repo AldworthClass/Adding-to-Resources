@@ -89,5 +89,11 @@
   <ItemGroup>
     <None Include="Resources\SheepSleep.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\angry mario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mario Rage.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
