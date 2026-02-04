@@ -44,6 +44,8 @@
             this.imgMario.TabIndex = 0;
             this.imgMario.TabStop = false;
             this.imgMario.Click += new System.EventHandler(this.imgMario_Click);
+            this.imgMario.MouseEnter += new System.EventHandler(this.imgMario_MouseEnter);
+            this.imgMario.MouseLeave += new System.EventHandler(this.imgMario_MouseLeave);
             // 
             // imgSleep
             // 
@@ -63,6 +65,7 @@
             this.ClientSize = new System.Drawing.Size(760, 450);
             this.Controls.Add(this.imgSleep);
             this.Controls.Add(this.imgMario);
+            this.Cursor = System.Windows.Forms.Cursors.Default;
             this.Name = "FormAddingResources";
             this.Text = "Adding Resources";
             ((System.ComponentModel.ISupportInitialize)(this.imgMario)).EndInit();
